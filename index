@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Mille Splendidi Soli</title>
+</head>
+
+<body>
+
+<header style="background-color: lightblue;">
+    <h1>Descrizione del libro</h1>
+</header>
+
+<p style="background-color: lightyellow;">
+    Ho letto il libro <b>Mille splendidi soli</b> scritto da 
+    <u>Khaled Hosseini</u>. 
+    Il titolo in un'altra lingua è <i>A Thousand Splendid Suns</i>.
+</p>
+
+<p style="background-color: lightgreen;">
+    Questo romanzo racconta la storia di due donne afghane, Mariam e Laila,
+    le cui vite si intrecciano in un periodo storico molto difficile.
+    Il libro affronta temi come l'amicizia, la sofferenza e la speranza.
+
+    Puoi leggere un approfondimento su 
+    <a href="https://it.wikipedia.org/wiki/Mille_splendidi_soli" target="_blank">
+        questo sito
+    </a>.
+</p>
+
+<a href="https://it.wikipedia.org/wiki/Mille_splendidi_soli" target="_blank">
+    <img src="millesplendidisoli.jpg"
+         height="250"
+         width="200"
+         alt="Copertina del libro Mille splendidi soli"
+         title="Mille splendidi soli - Khaled Hosseini"
+         style="border: 2px solid black;">
+</a>
+
+<blockquote style="color: darkred;">
+    "Come una bussola che punta al nord, l'indice accusatore dell'uomo trova sempre una donna."
+</blockquote>
+
+</body>
+</html>
